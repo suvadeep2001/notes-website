@@ -29,6 +29,10 @@ div {
     border-left: 6px solid #ff8080;
 }
 
+.copy-code{
+  background-color: #eeaeca;
+}
+
 a{
   text-decoration: none;
 }
