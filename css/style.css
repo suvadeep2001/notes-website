@@ -28,7 +28,10 @@ div {
    background-color:  #ffffb3;
     border-left: 6px solid #ff8080;
 }
-
+.day-6 {
+  background-color: #66ffff;
+  border-left: 6px solid #2196F3;
+}
 .copy-code{
   background-color: #eeaeca;
 }
